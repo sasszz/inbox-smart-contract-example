@@ -1,6 +1,6 @@
 # Inbox Smart Contract Example
 
-**Technologies:** _Ganache | Truffle | Web3.js | Mocha | Metamask | Infura | Node | Ethereum Sepolia Testnet
+**Technologies:** Ganache | Truffle | Web3.js | Mocha | Metamask | Infura | Node | Ethereum Sepolia Testnet
 
 ![Project's Technologies](README_imgs/technologies.png)
 
