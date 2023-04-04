@@ -1,4 +1,4 @@
-# Inbox Smart Contract Example
+# Ethereum Sepolia Testnet Smart Contract
 
 **Technologies:** Node | Metamask | Solidity | Ethereum Sepolia Testnet | Infura | Ganache | Truffle | Web3.js | Mocha
 
