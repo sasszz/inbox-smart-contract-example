@@ -1,8 +1,8 @@
 # Inbox Smart Contract Example
 
-**Technologies:** _Ganache | Truffle | Web3.js | Solc Solidity Compiler | Mocha | Metamask | Infura SDK | Node | Ethereum Sepolia Testnet_
+**Technologies:** _Ganache | Truffle | Web3.js | Mocha | Metamask | Infura | Node | Ethereum Sepolia Testnet
 
-![Ethereum Sepolia Testnet](README_imgs/logo.png)
+![Project's Technologies](README_imgs/technologies.png)
 
 **Tutorial:** [Udemy Ethereum and Solidity: The Complete Developer's Guide](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/)
 
